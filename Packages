@@ -1,13 +1,16 @@
-Package: WOLFOX_6.4
+Package: WOLFOX
 Version: 6.4
-Section: Tweaks
-Maintainer: Y1st <Y1st@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: WOLFOX
+Installed-Size: 904
+Depends: mobilesubstrate
 Filename: ./debs/WOLFOX_6.4_iphoneos-arm.deb
-Size: 1381842 
+Size: 1381842
 MD5sum: e18b329d48c918464df39a4d8d44be2c
-Description: Wolfox
-Author: Wolfox <Wolfox@gmail.com>
-Depiction: https://t.me/WOLFOXIOS
+SHA1: 5969337ed6316f0fd49bec6cdd2a19de524facda
+SHA256: e789c5f8724379b9676358bf3c5d904faba3b99acef32357233a1a1960d7b54b
+Section: Tweaks
+Description: WOLFOX
+Author: WOLFOX
+Name: WOLFOX
 
