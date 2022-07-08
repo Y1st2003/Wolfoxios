@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: WOLFOX
 Installed-Size: 904
 Depends: mobilesubstrate
-Filename: ./debs/WOLFOX_6.4_iphoneos-arm.deb
+Filename: /WOLFOX_6.4_iphoneos-arm 21.13.54.deb
 Size: 1381842
 MD5sum: e18b329d48c918464df39a4d8d44be2c
 SHA1: 5969337ed6316f0fd49bec6cdd2a19de524facda
@@ -20,7 +20,7 @@ Architecture: iphoneos-arm
 Maintainer: WOLFOX
 Installed-Size: 904
 Depends: mobilesubstrate
-Filename: ./debs/WOLFOX_6.5_iphoneos-arm.deb
+Filename: /WOLFOX_6.5_iphoneos-arm 21.13.54.deb
 Size: 2836978
 MD5sum: d0e032b2b129a18524eb405ba23f807e
 SHA1: 8067d10824388139ab3b100488cf616274782ddc
